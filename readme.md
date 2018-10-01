@@ -1,4 +1,5 @@
-# bxSlider 4.2.14
+
+iiiiii# bxSlider 4.2.14
 ## The fully-loaded, responsive jQuery content slider
 
 ### Why should I use this slider?
